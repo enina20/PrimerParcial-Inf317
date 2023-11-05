@@ -1,0 +1,15 @@
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\bin\Debug\net7.0\Pregunta7.exe
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\bin\Debug\net7.0\Pregunta7.deps.json
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\bin\Debug\net7.0\Pregunta7.runtimeconfig.json
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\bin\Debug\net7.0\Pregunta7.dll
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\bin\Debug\net7.0\Pregunta7.pdb
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\obj\Debug\net7.0\Pregunta7.csproj.AssemblyReference.cache
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\obj\Debug\net7.0\Pregunta7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\obj\Debug\net7.0\Pregunta7.AssemblyInfoInputs.cache
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\obj\Debug\net7.0\Pregunta7.AssemblyInfo.cs
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\obj\Debug\net7.0\Pregunta7.csproj.CoreCompileInputs.cache
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\obj\Debug\net7.0\Pregunta7.dll
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\obj\Debug\net7.0\refint\Pregunta7.dll
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\obj\Debug\net7.0\Pregunta7.pdb
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\obj\Debug\net7.0\Pregunta7.genruntimeconfig.cache
+C:\Users\EdsonIsidro.Nina.JALASOFT\Desktop\University\PrimerParcial-Inf317\Pregunta-7\Pregunta7\Pregunta7\obj\Debug\net7.0\ref\Pregunta7.dll
